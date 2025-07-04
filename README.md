@@ -58,16 +58,16 @@ const nitin = {
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,mui&theme=dark" />
 
 ### ⚙️ Backend Development  
-<img src="https://skillicons.dev/icons?i=nodejs,express,ruby,rails,python,java,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,ruby,rails&theme=dark" />
 
 ### 🗄️ Database & Storage
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" />
 
 ### 🚀 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,github,git,postman,heroku,vercel,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,github,git,postman,vercel,aws&theme=dark" />
 
 ### 🔧 Development Tools
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,figma,linux,ubuntu&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,linux,ubuntu&theme=dark" />
 
 </div>
 
@@ -98,16 +98,6 @@ const nitin = {
   <img src="https://github-profile-trophy.vercel.app/?username=nitin272&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15"/>
 </div>
 
-<div align="center">
-<table>
-<tr>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60"><br><b>4th Place</b><br>Competitive Hackathon</td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60"><br><b>SIH 2024</b><br>National Participant</td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"><br><b>8.7 CGPA</b><br>Academic Excellence</td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/235294009-55e5bb2e-7725-4f06-9b37-8e4d1b02e5f4.gif" width="60"><br><b>93.4%</b><br>CBSE Board</td>
-</tr>
-</table>
-</div>
 
 ## 🎯 Featured Projects
 
@@ -127,8 +117,8 @@ const nitin = {
 📱 PWA with offline support  
 🔄 CI/CD pipeline with GitHub Actions  
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-scalmart-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitin272/scalmart)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://scale-mart1.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitin272/E_commerce_Capstone.git)
 
 </td>
 <td width="50%">
@@ -144,8 +134,8 @@ const nitin = {
 📱 Responsive design for mobile  
 🌐 RESTful API architecture  
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-explore-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitin272/explore-express)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://explore-xpress.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitin272/ExploreXpress.git)
 
 </td>
 </tr>
@@ -153,7 +143,8 @@ const nitin = {
 <td width="50%">
 
 ### 📚 BookBuddy Management System
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="100" alt="Ruby on Rails Logo"><br><br>
+
 
 **Tech Stack:** `Ruby on Rails` `PostgreSQL` `Docker`
 
@@ -163,8 +154,8 @@ const nitin = {
 🐳 Dockerized deployment  
 🧪 RSpec & Capybara testing  
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=heroku&logoColor=white)](https://your-bookbuddy-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitin272/book-buddy)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=heroku&logoColor=white)](https://book-buddy-9uks.onrender.com/)
+
 
 </td>
 <td width="50%">
@@ -177,8 +168,6 @@ const nitin = {
 - 📊 Analytics dashboard
 - 🔐 Authentication microservice
 - 🌟 Open source contributions
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
 
 </td>
 </tr>
@@ -235,9 +224,6 @@ const nitin = {
   </a>
   <a href="https://linkedin.com/in/nitin-soni-79437428a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
-  </a>
-  <a href="tel:+919509290112">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/>
   </a>
   <a href="https://github.com/nitin272">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000"/>
