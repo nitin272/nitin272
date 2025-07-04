@@ -193,25 +193,23 @@ const nitin = {
 <table>
 <tr>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="60">
-<br><b>Cloud Computing</b>
-<br>AWS, Docker, Kubernetes
+<img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" width="60" alt="Cloud Icon"><br>
+<b>Cloud Computing</b><br>
+AWS, Docker, Kubernetes
 </td>
+
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60">
-<br><b>System Design</b>
-<br>Microservices, Scalability
+<img src="https://cdn-icons-png.flaticon.com/512/1605/1605350.png" width="60" alt="System Design Icon"><br>
+<b>System Design</b><br>
+Microservices, Scalability
 </td>
+
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60">
-<br><b>Open Source</b>
-<br>Contributing to projects
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="60" alt="GitHub Icon"><br>
+<b>Open Source</b><br>
+Contributing to projects
 </td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="60">
-<br><b>AI/ML</b>
-<br>Machine Learning basics
-</td>
+
 </tr>
 </table>
 </div>
