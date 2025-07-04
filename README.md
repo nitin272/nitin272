@@ -1,224 +1,302 @@
-# Hi there! 👋 I'm Nitin Soni
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitin%20Soni&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Product+Engineer;MERN+Stack+Developer;Ruby+on+Rails+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Product+Engineer+%F0%9F%92%BB;MERN+Stack+Specialist+%E2%9A%A1;Ruby+on+Rails+Developer+%F0%9F%92%8E;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 ## 🚀 About Me
-Third-year B.Tech student specializing in **Software Product Engineering** at JECRC University. Passionate about building secure, scalable applications using modern technologies and solving real-world problems through clean code.
 
-- 🎓 **Current CGPA**: 8.7/10.0
-- 🌱 Currently learning advanced DevOps and cloud technologies
-- 💼 Open to internships and collaboration opportunities
-- 📍 Located in Bhilwara, Rajasthan, India
-- 📫 Reach me at: **nitinsoni95092@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 📊 GitHub Statistics
+```javascript
+const nitin = {
+    name: "Nitin Soni",
+    role: "Software Product Engineer",
+    education: "B.Tech at JECRC University",
+    cgpa: "8.7/10.0",
+    location: "Bhilwara, Rajasthan, India",
+    currentFocus: ["Full Stack Development", "DevOps", "Open Source"],
+    techStack: {
+        frontend: ["React", "JavaScript", "HTML5", "CSS3", "Tailwind"],
+        backend: ["Node.js", "Express", "Ruby on Rails", "Python"],
+        database: ["MongoDB", "PostgreSQL", "MySQL"],
+        devOps: ["Docker", "GitHub Actions", "CI/CD"],
+        tools: ["Git", "Postman", "VS Code"]
+    },
+    motto: "Clean Code, Scalable Solutions, Real Impact! 🚀"
+};
+```
+
+<br clear="both">
+
+## 🔥 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nitin272&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nitin272&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitin272&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin272&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin272&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitin272&theme=tokyo-night&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin272&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 </div>
 
-## 🛠️ Technical Skills & Proficiency
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitin272&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
+</div>
+
+## 💻 Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,mui&theme=dark" />
+
+### ⚙️ Backend Development  
+<img src="https://skillicons.dev/icons?i=nodejs,express,ruby,rails,python,java,cpp&theme=dark" />
+
+### 🗄️ Database & Storage
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" />
+
+### 🚀 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,github,git,postman,heroku,vercel,aws&theme=dark" />
+
+### 🔧 Development Tools
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,figma,linux,ubuntu&theme=dark" />
+
+</div>
+
+## 🛠️ Skills Overview
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
 
 ### Programming Languages
-```text
-JavaScript   ████████████████████████████████████████   95%
-Python       ████████████████████████████████████████   90%
-Java         ████████████████████████████████████████   85%
-C++          ████████████████████████████████████████   80%
-Ruby         ████████████████████████████████████████   75%
-HTML5        ████████████████████████████████████████   95%
-CSS3         ████████████████████████████████████████   90%
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin272&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
 
-### Frameworks & Libraries
-```text
-React.js     ████████████████████████████████████████   92%
-Express.js   ████████████████████████████████████████   88%
-Node.js      ████████████████████████████████████████   85%
-Ruby on Rails████████████████████████████████████████   80%
-Socket.io    ████████████████████████████████████████   75%
-Tailwind CSS ████████████████████████████████████████   90%
-Bootstrap    ████████████████████████████████████████   85%
-MUI          ████████████████████████████████████████   78%
-```
+</td>
+<td width="50%">
 
-### Databases
-```text
-MongoDB      ████████████████████████████████████████   85%
-PostgreSQL   ████████████████████████████████████████   80%
-MySQL        ████████████████████████████████████████   75%
-```
+### Contribution Graph
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitin272&theme=tokyonight"/>
 
-### DevOps & Tools
-```text
-Docker       ████████████████████████████████████████   80%
-GitHub Actions███████████████████████████████████████   75%
-Git          ████████████████████████████████████████   90%
-Postman      ████████████████████████████████████████   85%
-Heroku       ████████████████████████████████████████   70%
-Vercel       ████████████████████████████████████████   85%
-```
+</td>
+</tr>
+</table>
+</div>
 
-## 🔥 Contribution Stats
+## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitin272&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nitin272&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitin272&theme=radical" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitin272&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+<table>
+<tr>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60"><br><b>4th Place</b><br>Competitive Hackathon</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60"><br><b>SIH 2024</b><br>National Participant</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"><br><b>8.7 CGPA</b><br>Academic Excellence</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/235294009-55e5bb2e-7725-4f06-9b37-8e4d1b02e5f4.gif" width="60"><br><b>93.4%</b><br>CBSE Board</td>
+</tr>
+</table>
 </div>
 
 ## 🎯 Featured Projects
 
-### 🛒 [ScaleMart E-commerce Platform](https://your-live-link.com)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
-
-- 🚀 Full-featured e-commerce platform with real-time chat functionality
-- 🔐 Secure authentication with JWT stored in HTTP-only cookies
-- 🔄 CI/CD pipeline with GitHub Actions and Docker
-- 📱 FCM push notifications for real-time updates
-- 🛡️ Role-based access control and offline support
-
-**Key Features:** Admin panel, filterable product listings, real-time chat, secure payments
-
-### 🌍 [ExploreExpress Travel Platform](https://your-live-link.com)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Google OAuth](https://img.shields.io/badge/Google%20OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-
-- 🏨 Responsive travel web app for hotels, restaurants, and tourist spots
-- 🔒 Secure Google OAuth integration
-- 📸 Image handling with Multer + Cloudinary
-- 📱 Mobile-first responsive design
-
-**Key Features:** Full CRUD operations, secure authentication, image uploads, responsive UI
-
-### 📚 [BookBuddy Book Management](https://your-live-link.com)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-
-- 📖 Book tracking and review platform with reading progress
-- 🔐 Custom authentication with session expiry
-- 🐳 Dockerized application with CI/CD
-- 🔍 Brakeman vulnerability scanning
-
-**Key Features:** Reading progress tracking, user profiles, book ratings, secure authentication
-
-## 🏆 Achievements & Recognition
-
 <div align="center">
-  
-| Achievement | Description | Year |
-|-------------|-------------|------|
-| 🥉 **4th Place Hackathon** | Competitive hackathon showcasing problem-solving skills | 2024 |
-| 🇮🇳 **Smart India Hackathon** | National-level tech initiative participant | 2024 |
-| 🎓 **Academic Excellence** | Maintaining 8.7/10.0 CGPA in Software Engineering | 2023-2027 |
-| 📚 **High School Achiever** | 93.4% in CBSE Board Examinations | 2021 |
+<table>
+<tr>
+<td width="50%">
 
+### 🛒 ScaleMart E-commerce Platform
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+**Tech Stack:** `MERN` `Socket.io` `Docker` `CI/CD`
+
+🚀 Full-featured e-commerce platform  
+🔐 JWT authentication & role-based access  
+💬 Real-time chat with Socket.io  
+📱 PWA with offline support  
+🔄 CI/CD pipeline with GitHub Actions  
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-scalmart-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitin272/scalmart)
+
+</td>
+<td width="50%">
+
+### 🌍 ExploreExpress Travel Platform
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+**Tech Stack:** `MERN` `Google OAuth` `Cloudinary`
+
+🏨 Travel booking platform  
+🔒 Secure Google OAuth integration  
+📸 Image upload with Cloudinary  
+📱 Responsive design for mobile  
+🌐 RESTful API architecture  
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-explore-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitin272/explore-express)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📚 BookBuddy Management System
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+
+**Tech Stack:** `Ruby on Rails` `PostgreSQL` `Docker`
+
+📖 Book tracking & review platform  
+👤 User profiles & reading progress  
+🔐 Custom authentication system  
+🐳 Dockerized deployment  
+🧪 RSpec & Capybara testing  
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=heroku&logoColor=white)](https://your-bookbuddy-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitin272/book-buddy)
+
+</td>
+<td width="50%">
+
+### 🚀 More Projects Coming Soon...
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7502af.gif" width="100">
+
+**Currently Working On:**
+- 🤖 AI-powered chat application
+- 📊 Analytics dashboard
+- 🔐 Authentication microservice
+- 🌟 Open source contributions
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
+
+</td>
+</tr>
+</table>
 </div>
 
-## 📈 Coding Activity
+## 📊 Contribution Statistics
 
 <div align="center">
-  <img src="https://wakatime.com/share/nitin272/your-wakatime-id.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitin272&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=Nitin's%20GitHub%20Stats"/>
 </div>
-
-## 🌟 Tech Stack Badges
 
 <div align="center">
-
-**Languages:**
-<br>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-
-**Frameworks & Libraries:**
-<br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
-**Databases:**
-<br>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**DevOps & Tools:**
-<br>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nitin272&theme=tokyonight&utcOffset=5.5"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitin272&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitin272&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitin272&theme=tokyonight"/>
 </div>
 
-## 📫 Let's Connect!
+## 🌟 Current Focus & Learning
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-soni-79437428a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitinsoni95092@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919509290112)
-
+<table>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="60">
+<br><b>Cloud Computing</b>
+<br>AWS, Docker, Kubernetes
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60">
+<br><b>System Design</b>
+<br>Microservices, Scalability
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60">
+<br><b>Open Source</b>
+<br>Contributing to projects
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="60">
+<br><b>AI/ML</b>
+<br>Machine Learning basics
+</td>
+</tr>
+</table>
 </div>
 
-## 🎯 Current Focus
+## 🤝 Let's Connect & Collaborate!
 
-- 🔭 Working on advanced full-stack projects
-- 🌱 Learning cloud technologies (AWS, Azure)
-- 👯 Looking to collaborate on open-source projects
-- 🤔 Exploring microservices architecture
-- 💬 Ask me about MERN stack, Ruby on Rails, or DevOps
+<div align="center">
+  <a href="mailto:nitinsoni95092@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+  <a href="https://linkedin.com/in/nitin-soni-79437428a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  <a href="tel:+919509290112">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/>
+  </a>
+  <a href="https://github.com/nitin272">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## 💡 Fun Facts & Quick Stats
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"/>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294017-4c79cd2b-6b36-4a5e-9b8a-7e8b6a3b1b1c.gif" width="50">
+<br><b>Coffee Cups</b>
+<br>∞ (Lost count!)
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294014-4e0b2b9b-9b4e-4b3f-9b3f-9b3f9b3f9b3f.gif" width="50">
+<br><b>Projects Built</b>
+<br>50+ and counting
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294018-6b4d3d3f-9b4e-4b3f-9b3f-9b3f9b3f9b3f.gif" width="50">
+<br><b>Bug Fixes</b>
+<br>1000+ squashed
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294020-6b4d3d3f-9b4e-4b3f-9b3f-9b3f9b3f9b3f.gif" width="50">
+<br><b>Lines of Code</b>
+<br>100K+ written
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
 
 <div align="center">
   
-**Visitor Count:**
-<br>
-![Visitor Count](https://profile-counter.glitch.me/nitin272/count.svg)
+**Thanks for visiting! Let's build something amazing together! 🚀**
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=nitin272&color=00D9FF&style=for-the-badge&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/nitin272?style=for-the-badge&color=00D9FF&labelColor=1a1a1a)](https://github.com/nitin272)
+[![GitHub stars](https://img.shields.io/github/stars/nitin272?style=for-the-badge&color=00D9FF&labelColor=1a1a1a)](https://github.com/nitin272)
 
----
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/nitin272">Nitin Soni</a> with ❤️</i>
 </div>
